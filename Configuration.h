@@ -145,11 +145,11 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "SKR_CR-10 MINI"
+#define CUSTOM_MACHINE_NAME "CR-10 MINI-SKR_Mini_E3_V3"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
-#define MACHINE_UUID "734b49da-961f-4746-b120-332128c80b94"
+#define MACHINE_UUID " "
 
 /**
  * Define the number of coordinated linear axes.
