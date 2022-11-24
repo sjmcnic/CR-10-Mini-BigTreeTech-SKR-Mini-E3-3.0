@@ -7,9 +7,9 @@ Compile this in the STM32G0B1RE_btt 512k environment.
 
 Configuration.h notes:
 
-#define HEATER_0_MAXTEMP 315°C. If not required or other temp required use desired Max temp +15°C to allow for 15°C overshoot
+#define HEATER_0_MAXTEMP 315 
 
-Sets Hotend temp to 300
+Sets Hotend temp to 300°C. If not required or other temp required use desired Max temp +15°C to allow for 15°C overshoot
 
 #define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN
 
