@@ -3,7 +3,7 @@ Marlin Config Files w/ BL Touch and TFT 35 V3
 
 Configuration for the BigTreeTech SKR E3 Mini V2 in a Creality CR-10 Mini using the BTT TFT 35 V3 display, and a BL Touch v3.1 ABL probe mounted on a Bullseye fan duct. Additional features are enabled to take advantage of the capabilities of the BTT SKR E3 Mini V3 board, detailed below.
 
-Compile this in the STM32F103RC_btt_512K environment. The test board had 512K of Flash and this configuration uses a little over half of that. If your board has only 256K, you will have to disable some features to make the firmware fit.
+Compile this in the STM32G0B1RE_btt 512k environment. 
 
 Configuration.h notes:
 #define USE_PROBE_FOR_Z_HOMING
