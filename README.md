@@ -1,5 +1,5 @@
 # CR-10-Mini-BigTreeTech-SKR-Mini-E3-3.0
-Marlin Config Files w/ BL Touch and TFT 35 V3
+Marlin Config Files w/ BL Touch and TFT 35 V3 & All Metal Hotend set at 300°C
 
 Configuration for the BigTreeTech SKR E3 Mini V2 in a Creality CR-10 Mini using the BTT TFT 35 V3 display, and a BL Touch v3.1 ABL probe mounted on a Bullseye fan duct. Additional features are enabled to take advantage of the capabilities of the BTT SKR E3 Mini V3 board, detailed below.
 
